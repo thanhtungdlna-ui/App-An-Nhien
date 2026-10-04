@@ -1,0 +1,8 @@
+{
+  "name": "Trợ Lý Quản Trị Học Tập – Thầy Nguyễn Thanh Tùng",
+  "description": "Hệ thống quản trị học tập môn Ngữ văn THCS dành cho Thầy Thầy Nguyễn Thanh Tùng - THCS BÀI SƠN 2",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
